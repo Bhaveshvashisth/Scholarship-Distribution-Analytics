@@ -1,0 +1,9 @@
+Student_ID,Department,Category,Family_Income,Scholarship_Amount,Status
+S001,CSE,SC,180000,30000,Approved
+S002,CSE,OBC,240000,25000,Approved
+S003,CSE,General,310000,20000,Approved
+S004,ECE,SC,150000,30000,Approved
+S005,ECE,OBC,260000,25000,Approved
+S006,ME,OBC,220000,25000,Approved
+S007,ME,General,330000,15000,Approved
+S008,Civil,General,350000,15000,Approved
